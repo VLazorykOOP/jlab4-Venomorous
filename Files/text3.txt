@@ -1,0 +1,2 @@
+This is a text from text file called "text3.txt"
+We're making a program that reads files
